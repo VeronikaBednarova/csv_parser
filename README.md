@@ -3,7 +3,7 @@
 
 Displays and plots csv files from the terminal
 
-Done at the MPI of Neurobiology workshop in October 2018
+Done at the MPI of Neurobiology workshop "Intermediate Python Programming for Scientists" in October 2018
 
 ## Installation
 ```bash
