@@ -3,10 +3,12 @@
 
 Displays and plots csv files from the terminal
 
+Done at the MPI of Neurobiology workshop in October 2018
+
 ## Installation
 ```bash
 pip install 
-git+http://github.com/VeronikaBednarova/csv_parser
+git+https://github.com/VeronikaBednarova/csv_parser
 ```
 
 ## Usage 
